@@ -1,7 +1,7 @@
 {
   "name": "oblique-strategies",
   "description": "the Oblique Strategies as a module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "C J Silverio <ceejceej@gmail.com>",
   "bin": {
     "strategy": "draw.js"
