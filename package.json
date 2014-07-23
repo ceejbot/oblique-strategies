@@ -1,0 +1,27 @@
+{
+  "name": "oblique-strategies",
+  "description": "the Oblique Strategies as a module",
+  "version": "1.0.0",
+  "author": "C J Silverio <ceejceej@gmail.com>",
+  "bin": {
+    "strategy": "draw.js"
+  },
+  "bugs": {
+    "url": "https://github.com/ceejbot/oblique-strategies/issues"
+  },
+  "homepage": "https://github.com/ceejbot/oblique-strategies",
+  "keywords": [
+    "oblique strategies",
+    "brian eno",
+    "eno"
+  ],
+  "license": "unlicense",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ceejbot/oblique-strategies.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
